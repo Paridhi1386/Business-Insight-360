@@ -8,4 +8,4 @@ This project was developed as part of the Power BI course at Codebasics and aims
 
 
 
-<img src="info page.png" alt="Info Page" width="800" height="800">
+<img src="images/info page.png" alt="Info Page" width="800" height="800">
