@@ -7,4 +7,4 @@ This project was developed as part of the Power BI course at Codebasics and aims
 [Info page](https://github.com/Paridhi1386/Business-Insight-360/blob/main/info%20page.pdf)
 <a href="info page.pdf">📄 info page (PDF)</a>
 ![Description](info page.png)
-<img src="info page.png" alt="Info Page" width="600">
+<img src="info page.png" alt="Info Page" width="600" height="600">
