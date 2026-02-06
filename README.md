@@ -22,7 +22,6 @@ The primary objective of this project was to transition AtliQ from its outdated 
 **Key Features & Business Functions**
 
 **Finance View**
-
-This page shows Profit & Loss (P&L) statements for specific customers, products, and countries over any given time period. Allows for the detailed analysis of financial performance, including revenue, expenses, and profitability metrics.
+This view shows Profit & Loss (P&L) statements for specific customer, product, and country on selected year.  Shows detailed analysis of financial performance including revenue, Net Sales,Gross Margin,Gross Margin % , COGS,Net Profit%,expenses and discounts.Net Sales performance over time ( comparing selected year vs last year).Top/Bottom products and customer on the basis of Net Sales.
 
 
