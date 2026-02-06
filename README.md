@@ -27,7 +27,7 @@ This view shows Profit & Loss (P&L) statements for specific customer, product, a
 
 
 
-<img src="images/finance view.png" alt="Info Page" width="800" height="800">
+<img src="images/Finance view.png" alt="Info Page" width="800" height="800">
 
 
 
