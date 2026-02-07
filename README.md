@@ -68,3 +68,9 @@ Shows products and customers performance in the market, focusing on metrics like
 
 <img src="images/marketing view.png" alt="Info Page" width="800" height="800">
 
+
+
+**Supply Chain View** 
+
+This visual includes KPIs such as Forecast Accuracy, Net Error and ABS Error. Includes separate visuals to show key metrics like Forecast Accuracy, Forecast Accuracy%,Net Error, Net Error% and Risk for all customers and products.Net error trends to compare Forecast Accurancy % of selected year and last year.
+
