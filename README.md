@@ -102,3 +102,5 @@ A high-level, consolidated dashboard that presents key insights across all busin
 <img src="images/Executive view.png" alt="Info Page" width="800" height="800">
 
 
+
+
