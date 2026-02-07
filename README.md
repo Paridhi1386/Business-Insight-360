@@ -109,7 +109,7 @@ A high-level, consolidated dashboard that presents key insights across all busin
 
 ## 📊 Live Power BI Report
 
-[![Power BI Dashboard](power bi icon.png)](https://app.powerbi.com/groups/me/reports/524abab8-685c-470a-95bc-ed1db67f20bd/ReportSection0e765c0061580b067c73?experience=power-bi)
+[![Power BI Dashboard]](https://app.powerbi.com/groups/me/reports/524abab8-685c-470a-95bc-ed1db67f20bd/ReportSection0e765c0061580b067c73?experience=power-bi)
 
 
 **Snowflakes Schema Snapshot (Power BI DESKTOP)**
