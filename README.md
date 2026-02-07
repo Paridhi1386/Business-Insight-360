@@ -31,7 +31,8 @@ This view shows Profit & Loss (P&L) statements for specific customer, product, a
 
 
 
-**Sales View **
+****Sales View ****
+
 This views shows a detailed performance analysis based on key metrics such as Net Sales, Gross Margin, and Profitability. Provides a Growth Matrix for assessing sales performance and profitability of individual customers, products, and regions.
 
 
