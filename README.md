@@ -101,7 +101,5 @@ A high-level, consolidated dashboard that presents key insights across all busin
 
 <img src="images/Executive view.png" alt="Info Page" width="800" height="800">
 
-<iframe title="BI 360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGZlMjVmZGQtODZlOS00YmY2LWFmMjItMzdlMjI0Y2YzNTdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73" frameborder="0" allowFullScreen="true"></iframe>
-
 
 
