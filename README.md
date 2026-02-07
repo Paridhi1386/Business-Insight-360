@@ -1,5 +1,13 @@
 # Business-Insight-360
 
+
+## 📊 Live Power BI Report
+
+[[Business Insight 360]](https://app.powerbi.com/groups/me/reports/524abab8-685c-470a-95bc-ed1db67f20bd/ReportSection0e765c0061580b067c73?experience=power-bi)
+
+
+
+
 **Project Overview**
 
 This project was developed as part of the Power BI course at Codebasics and aims to provide a comprehensive, integrated business intelligence solution for AtliQ, a rapidly growing global company. AtliQ faced significant challenges in managing and analyzing its operational data due to its reliance on Excel spreadsheets for data analytics. The project involved transitioning their data analysis capabilities to Power BI, enabling real-time, actionable insights across multiple business domains to drive data-driven decision-making.
@@ -106,10 +114,6 @@ A high-level, consolidated dashboard that presents key insights across all busin
 
 
 
-
-## 📊 Live Power BI Report
-
-[[Business Insight 360]](https://app.powerbi.com/groups/me/reports/524abab8-685c-470a-95bc-ed1db67f20bd/ReportSection0e765c0061580b067c73?experience=power-bi)
 
 
 **Snowflakes Schema Snapshot (Power BI DESKTOP)**
