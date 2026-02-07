@@ -19,6 +19,9 @@ This project was developed as part of the Power BI course at Codebasics and aims
 
 <img src="images/Home page.png" alt="Info Page" width="800" height="800">
 
+
+
+
 **Problem Statement**
 
 AtliQ, a business with operations expanding across multiple countries, was struggling with the increasing complexity of its operations. Despite their rapid growth, the company was relying heavily on Excel for data analysis, which was time-consuming, error-prone, and lacked scalability. This caused inefficiencies in decision-making and led to significant financial losses, particularly in their Latin American market, due to the inability to extract meaningful insights from their data in real time.
@@ -140,14 +143,21 @@ This model enables efficient and accurate analysis of data across various busine
 
 **5- Automation & Data Refresh :** Implemented automated data refresh using Power BI Gateway, ensuring that the dashboard reflects the latest business data without manual intervention. Scheduled automatic updates to keep the reports up-to-date, ensuring executives and teams always have access to the most current information.
 
+
 **Technique Stacked**
 
 ⦁Power BI: Used for creating dynamic dashboards, visualizations, and interactive reports.
+
 ⦁MySQL: Used as the database management system for storing and managing business data.
+
 ⦁ETL Processes: Leveraged Python and SQL for extracting and transforming data from various sources.
+
 ⦁DAX (Data Analysis Expressions): Used to create calculated columns and measures for advanced analytics.
+
 ⦁Power BI Services: Utilized for report publishing, sharing, and automated data refresh.
+
 ⦁Snowflake Schema: Adopted for efficient data organization and modeling.
+
 
 **Conclusion**
 
