@@ -58,3 +58,13 @@ This views shows a detailed performance analysis based on key metrics such as Ne
 Shows products and customers performance in the market, focusing on metrics like Net Sales,Gross Margin,Gross Margin%,Net Profit,Net Profit%. Visualizes the profitability and growth potential of products through an interactive matrix.
 
 
+
+
+
+
+
+
+
+
+<img src="images/marketing view.png" alt="Info Page" width="800" height="800">
+
