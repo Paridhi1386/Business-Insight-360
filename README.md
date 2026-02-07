@@ -107,10 +107,6 @@ A high-level, consolidated dashboard that presents key insights across all busin
 
 
 
-🔗 Live Power BI Dashboard URL:
-
-https://paridhi1386.github.io/Business%20Insight%20360/
-
 
 
 
