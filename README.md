@@ -116,6 +116,11 @@ https://app.powerbi.com/groups/me/reports/524abab8-685c-470a-95bc-ed1db67f20bd/R
 **Snowflakes Schema Snapshot (Power BI DESKTOP)**
 
 
+<img src="images/snowflake schema.png" alt="Info Page" width="800" height="800">
+
+
+
+
 
 
 
