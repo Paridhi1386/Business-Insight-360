@@ -92,3 +92,13 @@ This visual includes KPIs such as Forecast Accuracy, Net Error and ABS Error. In
 A high-level, consolidated dashboard that presents key insights across all business areas, providing executives with a comprehensive overview of performance and operational health.
 
 
+
+
+
+
+
+
+
+<img src="images/Executive view.png" alt="Info Page" width="800" height="800">
+
+
