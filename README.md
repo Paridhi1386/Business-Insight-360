@@ -39,3 +39,12 @@ This views shows a detailed performance analysis based on key metrics such as Ne
 
 
 
+
+
+
+
+
+
+<img src="images/sales view.png" alt="Info Page" width="800" height="800">
+
+
