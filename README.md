@@ -19,7 +19,10 @@ AtliQ, a business with operations expanding across multiple countries, was strug
 
 The primary objective of this project was to transition AtliQ from its outdated Excel-based data analysis process to a more efficient and scalable solution: Power BI. The goal was to develop an interactive, dynamic, and integrated Power BI dashboard capable of providing real-time insights, improving operational efficiency, and empowering decision-makers at all levels of the business with actionable data.
 
+
+
 **Key Features & Business Functions**
+
 
 **Finance View**
 This view shows Profit & Loss (P&L) statements for specific customer, product, and country on selected year.  Shows detailed analysis of financial performance including revenue, Net Sales,Gross Margin,Gross Margin % , COGS,Net Profit%,expenses and discounts. performance (selected key finance function) over time ( comparing selected year vs last year). products and customer detail including market and region based on selected key finance function.
